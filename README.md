@@ -1,10 +1,5 @@
 # Connect-4
 
-Date Created: 19/02/2018
-
-Last Updated: 02/07/2021
-Updated statements which are no longer supported from previous python versions.
-
 A program that plays a standard game of 6x7 connect four using standard rules.
 The program takes player input and plays against a computer that will make
 decisions on the best move to make.
